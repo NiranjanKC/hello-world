@@ -1,1 +1,4 @@
 This is text for testing porposes of git commands and its uses.......
+var name = "Niranjan";
+var age = 30;
+var occupation = "Engineer";
